@@ -29,6 +29,6 @@ int main()
     int resultado;
     int valor = 8;
     resultado = fatorial(valor);
-    printf("Fatorial de %d eh: %d", valor, resultado);
+    printf("Fatorial de %d = %d", valor, resultado);
     return 0;
 }
