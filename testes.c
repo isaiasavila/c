@@ -1,5 +1,14 @@
 # include <studio.h>
 # include <string.h>
+#include <stdbool.h>
+
+void variaveis(){
+    int idade;
+    float salario = 7500;
+    double qtd_atomos;
+    bool confirma = false;
+    char genero = ‘M’;
+}
 
 // void main(void)
 // {
