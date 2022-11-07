@@ -1,5 +1,5 @@
-# include <studio.h>
-# include <string.h>
+#include <studio.h>
+#include <string.h>
 #include <stdbool.h>
 
 void variaveis(){
